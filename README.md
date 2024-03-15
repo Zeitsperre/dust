@@ -41,6 +41,10 @@ Because I want an easy way to see where my disk is being used.
 - Windows GNU version - works
 - Windows MSVC - requires: [VCRUNTIME140.dll](https://docs.microsoft.com/en-gb/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
+### Anaconda (conda-forge):
+
+- `conda install -c conda-forge dust`
+
 #### Download
 
 - Download Linux/Mac binary from [Releases](https://github.com/bootandy/dust/releases)
